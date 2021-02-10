@@ -1,0 +1,292 @@
+{
+   "PutniNalozi": [
+      {
+         "id": "110",
+         "zaposlenik_id": "10",
+         "prijevoz_id": "1",
+         "polaziste_id": "1",
+         "odrediste_id": "10",
+         "datum_odlaska": "01.01.2017",
+         "datum_povratka": "01.01.2017"
+      },
+      {
+         "id": "111",
+         "zaposlenik_id": "8",
+         "prijevoz_id": "3",
+         "polaziste_id": "1",
+         "odrediste_id": "10",
+         "datum_odlaska": "05.01.2017",
+         "datum_povratka": "06.01.2017"
+      },
+      {
+         "id": "112",
+         "zaposlenik_id": "7",
+         "prijevoz_id": "1",
+         "polaziste_id": "2",
+         "odrediste_id": "8",
+         "datum_odlaska": "09.01.2017",
+         "datum_povratka": "10.01.2017"
+      },
+      {
+         "id": "113",
+         "zaposlenik_id": "7",
+         "prijevoz_id": "1",
+         "polaziste_id": "2",
+         "odrediste_id": "9",
+         "datum_odlaska": "11.01.2017",
+         "datum_povratka": "11.01.2017"
+      },
+      {
+         "id": "114",
+         "zaposlenik_id": "6",
+         "prijevoz_id": "1",
+         "polaziste_id": "1",
+         "odrediste_id": "5",
+         "datum_odlaska": "19.01.2017",
+         "datum_povratka": "20.01.2017"
+      },
+      {
+         "id": "115",
+         "zaposlenik_id": "9",
+         "prijevoz_id": "1",
+         "polaziste_id": "2",
+         "odrediste_id": "3",
+         "datum_odlaska": "02.02.2017",
+         "datum_povratka": "02.02.2017"
+      },
+      {
+         "id": "116",
+         "zaposlenik_id": "1",
+         "prijevoz_id": "3",
+         "polaziste_id": "1",
+         "odrediste_id": "4",
+         "datum_odlaska": "06.02.2017",
+         "datum_povratka": "06.02.2017"
+      },
+      {
+         "id": "117",
+         "zaposlenik_id": "5",
+         "prijevoz_id": "2",
+         "polaziste_id": "1",
+         "odrediste_id": "6",
+         "datum_odlaska": "10.02.2017",
+         "datum_povratka": "11.02.2017"
+      },
+      {
+         "id": "118",
+         "zaposlenik_id": "4",
+         "prijevoz_id": "2",
+         "polaziste_id": "2",
+         "odrediste_id": "5",
+         "datum_odlaska": "12.02.2017",
+         "datum_povratka": "12.02.2017"
+      },
+      {
+         "id": "119",
+         "zaposlenik_id": "5",
+         "prijevoz_id": "1",
+         "polaziste_id": "1",
+         "odrediste_id": "4",
+         "datum_odlaska": "22.02.2017",
+         "datum_povratka": "23.02.2017"
+      },
+      {
+         "id": "120",
+         "zaposlenik_id": "3",
+         "prijevoz_id": "2",
+         "polaziste_id": "2",
+         "odrediste_id": "4",
+         "datum_odlaska": "27.02.2017",
+         "datum_povratka": "27.02.2017"
+      },
+      {
+         "id": "121",
+         "zaposlenik_id": "5",
+         "prijevoz_id": "3",
+         "polaziste_id": "1",
+         "odrediste_id": "8",
+         "datum_odlaska": "02.03.2017",
+         "datum_povratka": "03.03.2017"
+      },
+      {
+         "id": "122",
+         "zaposlenik_id": "10",
+         "prijevoz_id": "1",
+         "polaziste_id": "1",
+         "odrediste_id": "9",
+         "datum_odlaska": "06.03.2017",
+         "datum_povratka": "07.03.2017"
+      },
+      {
+         "id": "123",
+         "zaposlenik_id": "3",
+         "prijevoz_id": "2",
+         "polaziste_id": "2",
+         "odrediste_id": "9",
+         "datum_odlaska": "13.03.2017",
+         "datum_povratka": "13.03.2017"
+      },
+      {
+         "id": "124",
+         "zaposlenik_id": "2",
+         "prijevoz_id": "2",
+         "polaziste_id": "1",
+         "odrediste_id": "2",
+         "datum_odlaska": "16.03.2017",
+         "datum_povratka": "16.03.2017"
+      },
+      {
+         "id": "125",
+         "zaposlenik_id": "1",
+         "prijevoz_id": "1",
+         "polaziste_id": "6",
+         "odrediste_id": "1",
+         "datum_odlaska": "02.04.2017",
+         "datum_povratka": "02.04.2017"
+      },
+      {
+         "id": "126",
+         "zaposlenik_id": "2",
+         "prijevoz_id": "1",
+         "polaziste_id": "1",
+         "odrediste_id": "5",
+         "datum_odlaska": "22.04.2017",
+         "datum_povratka": "23.04.2017"
+      },
+      {
+         "id": "127",
+         "zaposlenik_id": "3",
+         "prijevoz_id": "2",
+         "polaziste_id": "2",
+         "odrediste_id": "7",
+         "datum_odlaska": "23.04.2017",
+         "datum_povratka": "24.04.2017"
+      },
+      {
+         "id": "128",
+         "zaposlenik_id": "9",
+         "prijevoz_id": "1",
+         "polaziste_id": "1",
+         "odrediste_id": "6",
+         "datum_odlaska": "28.04.2017",
+         "datum_povratka": "28.04.2017"
+      },
+      {
+         "id": "129",
+         "zaposlenik_id": "7",
+         "prijevoz_id": "1",
+         "polaziste_id": "1",
+         "odrediste_id": "5",
+         "datum_odlaska": "01.05.2017",
+         "datum_povratka": "01.05.2017"
+      }
+   ],
+   "Zaposlenici": [
+      {
+         "id": "1",
+         "ime": "Josipa",
+         "prezime": "Peric"
+      },
+      {
+         "id": "2",
+         "ime": "Davor",
+         "prezime": "Horvat"
+      },
+      {
+         "id": "3",
+         "ime": "Petar",
+         "prezime": "Boban"
+      },
+      {
+         "id": "4",
+         "ime": "Ana",
+         "prezime": "Markovic"
+      },
+      {
+         "id": "5",
+         "ime": "Ivana",
+         "prezime": "Kovac"
+      },
+      {
+         "id": "6",
+         "ime": "Robert",
+         "prezime": "Bozic"
+      },
+      {
+         "id": "7",
+         "ime": "Bozidar",
+         "prezime": "Maric"
+      },
+      {
+         "id": "8",
+         "ime": "Damir",
+         "prezime": "Stanic"
+      },
+      {
+         "id": "9",
+         "ime": "Ante",
+         "prezime": "Robic"
+      },
+      {
+         "id": "10",
+         "ime": "Marko",
+         "prezime": "Stankovic"
+      }
+   ],
+   "TipoviPrijevoza": [
+      {
+         "id": "1",
+         "naziv": "Automobil"
+      },
+      {
+         "id": "2",
+         "naziv": "Autobus"
+      },
+      {
+         "id": "3",
+         "naziv": "Vlak"
+      }
+   ],
+   "Gradovi": [
+      {
+         "id": "1",
+         "naziv": "Virovitica"
+      },
+      {
+         "id": "2",
+         "naziv": "Slatina"
+      },
+      {
+         "id": "3",
+         "naziv": "Orahovica"
+      },
+      {
+         "id": "4",
+         "naziv": "Donji Miholjac"
+      },
+      {
+         "id": "5",
+         "naziv": "Pitomaca"
+      },
+      {
+         "id": "6",
+         "naziv": "Osijek"
+      },
+      {
+         "id": "7",
+         "naziv": "Vinkovci"
+      },
+      {
+         "id": "8",
+         "naziv": "Dakovo"
+      },
+      {
+         "id": "9",
+         "naziv": "Vukovar"
+      },
+      {
+         "id": "10",
+         "naziv": "Nasice"
+      }
+   ]
+}

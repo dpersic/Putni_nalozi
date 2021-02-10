@@ -1,0 +1,22 @@
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\ConsoleApplicationTester.exe.config
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\ConsoleApplicationTester.exe
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\ConsoleApplicationTester.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.csprojResolveAssemblyReference.cache
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.exe
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\DataAccessLayer.dll
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\Newtonsoft.Json.dll
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\DataAccessLayer.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\Newtonsoft.Json.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\ConsoleApplicationTester.exe.config
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\ConsoleApplicationTester.exe
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\ConsoleApplicationTester.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\DataAccessLayer.dll
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\DataAccessLayer.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.csprojResolveAssemblyReference.cache
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.exe
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.pdb

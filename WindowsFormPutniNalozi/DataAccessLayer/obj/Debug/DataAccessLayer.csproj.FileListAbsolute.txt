@@ -1,0 +1,15 @@
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\Newtonsoft.Json.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

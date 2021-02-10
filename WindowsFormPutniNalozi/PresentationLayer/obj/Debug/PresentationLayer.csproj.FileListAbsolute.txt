@@ -1,0 +1,30 @@
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\DataAccessLayer.dll
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\Newtonsoft.Json.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\Fakultet\RAC, 2.godina\III.Semestar\Programiranjeu.NETokolini2\Vjezbanje za ispit\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.Form2.resources
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.Form2.resources
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Persic\Desktop\Putni_nalozi\WindowsFormPutniNalozi\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
